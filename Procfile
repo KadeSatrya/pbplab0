@@ -1,0 +1,1 @@
+web: gunicorn pbplab0.wsgi --log-file -
